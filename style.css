@@ -1,5 +1,6 @@
-.months{
+.months,th:first-child{
 text-transform: capitalize;
+text-align: center;
 }
 .container{
     padding-top: 5%;
