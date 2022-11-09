@@ -1,3 +1,6 @@
 .months{
 text-transform: capitalize;
 }
+.container{
+    padding-top: 5%;
+}
